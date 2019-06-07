@@ -68,7 +68,7 @@ After having gone through the Ethereum Pet Shop Truffle tutorial, we will take a
 5. Run the pet shop DApp
     * Switch back to the Git Bash prompt.
     * Run `npm run dev`.
-	[npm run dev](screenshots/setup_commands_screenshots/npm_run.PNG)
+	![npm run dev](screenshots/setup_commands_screenshots/npm_run.PNG)
     * Open your browser with MetaMask installed.
     * Navigate to `localhost:3000`.
 6. Sign in to MetaMask using the mnemonic phrase in Ganache.
