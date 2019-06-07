@@ -30,7 +30,7 @@ After having gone through the Ethereum Pet Shop Truffle tutorial, we will take a
     * Click **SAVE AND RESTART** in the top-right corner.
 	![save and restart](screenshots/connecting_to_metamask/save_and_restart_ganache.PNG)
     * Click the **gear icon** in the top-right corner.
-	![ganache_restart_settings](ganache_restart_settings.PNG)
+	![ganache_restart_settings](screenshots/connecting_to_metamask/ganache_restart_settings.PNG)
     * Select the **ACCOUNTS & KEYS** tab.
     * Disable **AUTOGENERATE HD MNEMONIC**.
 	![disable autogenerate HD](screenshots/connecting_to_metamask/disable_autogenerate_and_restart.PNG)
