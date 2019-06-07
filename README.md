@@ -85,12 +85,12 @@ After having gone through the Ethereum Pet Shop Truffle tutorial, we will take a
     * Choose a dog, and click **Adopt**.
     * In the MetaMask pop-up, click **Confirm**.
         * If all went well, `Adopt` will have changed to `Success`.
-	![Adopting a dog](adoption_dialog.PNG)
+	![Adopting a dog](screenshots/connecting_to_metamask/adoption_dialog.PNG)
 8. Observe the output.
     * Switch to the Ganache GUI.
     * Select the **BLOCKS** tab.
     * Observe 1 newly created block.
-	![6 blocks](screenshots/connecting_to_metamask/six_transactions.PNG)
+	![6 blocks](screenshots/connecting_to_metamask/six_blocks.PNG)
     * Select the **TRANSACTIONS** tab.
     * Observe the new `CONTRACT CALL` transaction, which brings the count to 5.
 	![5 transactions](screenshots/connecting_to_metamask/five_transactions.PNG)
