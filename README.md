@@ -1,7 +1,7 @@
 ﻿# Module 11 - Beginner Lab: Ethereum Pet Shop DApp Case Study
 
 ## Background
-After having gone through the Ethereum Pet Shop Truffle tutorial, we will take a closer look at the data flow in the Ethereum Pet Shop DApp.
+After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tutorial], we will take a closer look at the data flow in the Ethereum Pet Shop DApp.
 
 ## Meta Information
 | Attribute | Explanation |
@@ -110,3 +110,5 @@ Dr. Debasis Bhattacharya
 Mario Canul  
 Saxon Knight  
 https://www.trufflesuite.com/tutorials/pet-shop  
+
+[pet-shop-tutorial]: https://www.trufflesuite.com/tutorials/pet-shop
