@@ -73,7 +73,7 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
 6. Sign in to MetaMask using the mnemonic phrase in Ganache.
     * In MetaMask, click **Import using account seed phrase**.
 	![metamask](screenshots/connecting_to_metamask/login.PNG)
-	![connection_request](screnshots/connecting_to_metamask/connection_request.PNG)
+	![connection_request](screenshots/connecting_to_metamask/connection_request.PNG)
     * Switch to the Ganache GUI.
     * Select and copy (`CTRL+C`) the **MNEMONIC** phrase.
     * Switch back to your browser and paste (`CTRL+V`) the phrase into the _Wallet Seed_ box in MetaMask.
