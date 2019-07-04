@@ -73,19 +73,19 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
 6. Sign in to MetaMask using the mnemonic phrase in Ganache.
     * In MetaMask, click **Import using account seed phrase**.
 	![metamask](screenshots/connecting_to_metamask/login.PNG)
-	![connection_request](screenshots/connecting_to_metamask/connection_request.PNG)
     * Switch to the Ganache GUI.
     * Select and copy (`CTRL+C`) the **MNEMONIC** phrase.
     * Switch back to your browser and paste (`CTRL+V`) the phrase into the _Wallet Seed_ box in MetaMask.
     * Create and confirm a new password in MetaMask.
 	![import using ganache](screenshots/connecting_to_metamask/wallet_mnemonic.PNG)
-	
-7. Adopt a dog.
+7. Confirm the connection to Pete's Pet Shop.
+	![connection_request](screenshots/connecting_to_metamask/connection_request.PNG)
+8. Adopt a dog.
     * Choose a dog, and click **Adopt**.
     * In the MetaMask pop-up, click **Confirm**.
         * If all went well, `Adopt` will have changed to `Success`.
 	![Adopting a dog](screenshots/connecting_to_metamask/adoption_dialog.PNG)
-8. Observe the output.
+9. Observe the output.
     * Switch to the Ganache GUI.
     * Select the **BLOCKS** tab.
     * Observe 1 newly created block.
