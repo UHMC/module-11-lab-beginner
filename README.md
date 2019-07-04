@@ -15,7 +15,7 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
 | Dependencies | Truffle, Ganache, MetaMask, and a computer with suitable browser (Chrome, Firefox, etc.). |
 | Variants | No. |
 
-## Assignment Instructions
+## Assignment Instructions (10 Minutes)
 1. Reset everything.
     * Open your browser with MetaMask installed.
     * Click the **MetaMask icon**.
