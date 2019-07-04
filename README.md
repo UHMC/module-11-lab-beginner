@@ -69,8 +69,7 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
     * Switch back to the Git Bash prompt.
     * Run `npm run dev`.
 	![npm run dev](screenshots/setup_commands_screenshots/npm_run.PNG)
-    * Open your browser with MetaMask installed.
-    * Navigate to `localhost:3000`.
+    * A new tab in your browser should open displaying the pet shop.
 6. Sign in to MetaMask using the mnemonic phrase in Ganache.
     * In MetaMask, click **Import using account seed phrase**.
 	![metamask](screenshots/connecting_to_metamask/login.PNG)
