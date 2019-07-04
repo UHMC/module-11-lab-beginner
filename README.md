@@ -29,17 +29,6 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
 	![enable autogenerate HD](screenshots/connecting_to_metamask/enable_autogenerate_HD_mnemonic.PNG)
     * Click **SAVE AND RESTART** in the top-right corner.
 	![save and restart](screenshots/connecting_to_metamask/save_and_restart_ganache.PNG)
-    * Click the **gear icon** in the top-right corner.
-	![ganache_restart_settings](screenshots/connecting_to_metamask/ganache_restart_settings.PNG)
-    * Select the **ACCOUNTS & KEYS** tab.
-    * Disable **AUTOGENERATE HD MNEMONIC**.
-	![disable autogenerate HD](screenshots/connecting_to_metamask/disable_autogenerate_and_restart.PNG)
-    * Click **SAVE AND RESTART** in the top-right corner.
-	![save and restart](screenshots/connecting_to_metamask/save_and_restart_ganache.PNG)
-    * Open a Git Bash prompt.
-    * Change directory into the pet-shop-tutorial folder.
-    * Run `truffle networks --clean`.
-	![truffle clean](screenshots/connecting_to_metamask/truffle_clean.PNG)
 2. Make initial observations.
     * Select the **ACCOUNTS** tab.
     * Observe that all accounts have 100.00 ETH.
