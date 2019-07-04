@@ -78,7 +78,7 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
     * Switch back to your browser and paste (`CTRL+V`) the phrase into the _Wallet Seed_ box in MetaMask.
     * Create and confirm a new password in MetaMask.
 	![import using ganache](screenshots/connecting_to_metamask/wallet_mnemonic.PNG)
-7. Confirm the connection to Pete's Pet Shop.
+7. Confirm the connection to Pete's Pet Shop.  
 	![connection_request](screenshots/connecting_to_metamask/connection_request.PNG)
 8. Adopt a dog.
     * Choose a dog, and click **Adopt**.
