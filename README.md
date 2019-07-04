@@ -69,6 +69,7 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
 	![import using ganache](screenshots/connecting_to_metamask/wallet_mnemonic.PNG)
 7. Confirm the connection to Pete's Pet Shop.  
 	![connection_request](screenshots/connecting_to_metamask/connection_request.PNG)
+8. Make sure MetaMask has the 127.0.0.1:7545 network selected in the dropdown.
 8. Adopt a dog.
     * Choose a dog, and click **Adopt**.
     * In the MetaMask pop-up, click **Confirm**.
