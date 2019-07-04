@@ -96,12 +96,8 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
 
 ## Questions
 1. Why do we run `truffle migrate`?
-    * You told me to.
-    * It seemed like a good idea at the time.
     * It deploys the smart contracts, which are the backend of the DApp.
 2. Why are we using Ganache instead of the Ethereum Main Network?
-    * You told me to.
-    * It seemed like a good idea at the time.
     * Ganache creates a local blockchain, which is free and doesn’t require interacting with a test-currency faucet.
 
 ## Credits
