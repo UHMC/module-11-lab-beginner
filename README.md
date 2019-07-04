@@ -30,7 +30,7 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
     * Click **SAVE AND RESTART** in the top-right corner.
 	![save and restart](screenshots/connecting_to_metamask/save_and_restart_ganache.PNG)
 2. Make initial observations.
-    * Select the **ACCOUNTS** tab.
+    * In Ganache, select the **ACCOUNTS** tab.
     * Observe that all accounts have 100.00 ETH.
 	![accounts](screenshots/clean_blockchain_screenshots/accounts.PNG)
     * Switch to the **BLOCKS** tab.
