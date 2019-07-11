@@ -42,6 +42,8 @@ After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tuto
 3. Initialize the pet shop DApp.
     * Open a Git Bash prompt.
     * Change directory into the pet-shop-tutorial folder.
+	* Run `truffle networks --clean`.
+	![truffle clean](screenshots/connecting_to_metamask/truffle_clean.PNG)
     * Run `truffle migrate`.
 	![truffle migrate](screenshots/setup_commands_screenshots/truffle_migrate.PNG)
 4. Observe the output.
