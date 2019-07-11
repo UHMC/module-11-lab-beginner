@@ -1,9 +1,9 @@
 ﻿# Module 11 - Beginner Lab: Ethereum Pet Shop DApp Case Study
  
  NOTES: Three source files provide answers to this lab.
- 1. Place Adoptions.sol file in the Contracts Folder
- 2. Place 2_deploy_contracts.js file in the Migrations Folder
- 3. **Replace existing app.js** file with updated app.js file in the src/js folder
+ 1. Place Adoptions.sol file in the ***Contracts** Folder
+ 2. Place 2_deploy_contracts.js file in the **Migrations** Folder
+ 3. **Replace existing app.js** file with updated app.js file in the **src/js** folder
 
 ## Background
 After having gone through the [Ethereum Pet Shop Truffle tutorial][pet-shop-tutorial] (1 hour), we will take a closer look at the data flow in the Ethereum Pet Shop DApp.
